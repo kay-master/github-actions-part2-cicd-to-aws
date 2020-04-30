@@ -64,6 +64,7 @@ jobs:
         - name: Print nice message on completoin of CI Pipeline
           run: echo "CD Pipeline part finished successfully"
             
+        
             
             
             
@@ -71,5 +72,4 @@ jobs:
             
             
             
-            
-            :  
+              
